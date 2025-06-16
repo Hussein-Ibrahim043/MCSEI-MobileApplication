@@ -89,10 +89,10 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 
 | Name                  |
 | --------------------- |
-| Hussein Ibrahim       |
-| Al-Baraa Sameh        |
 | Muhammed Badawy       |
 | Abdelrahman Saad      |
+| Hussein Ibrahim       |
+| Al-Baraa Sameh        |
 | Abdelrahman Alaa      |
 | Al-Hussien Abd ElRazek |
 | Mustafa Essam         |
