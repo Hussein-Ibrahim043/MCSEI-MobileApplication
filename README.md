@@ -91,8 +91,8 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 | --------------------- |
 | Muhammed Badawy       |
 | Abdelrahman Saad      |
-| Hussein Ibrahim       |
 | Al-Baraa Sameh        |
+| Hussein Ibrahim       |
 | Abdelrahman Alaa      |
 | Al-Hussien Abd ElRazek |
 | Mustafa Essam         |
